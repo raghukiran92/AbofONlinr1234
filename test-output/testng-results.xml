@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25208" started-at="2017-09-11T03:07:10Z" finished-at="2017-09-11T03:07:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25208" started-at="2017-09-11T03:07:10Z" finished-at="2017-09-11T03:07:35Z">
+      <class name="com.TestScript.HomeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.TestScript.HomeTest@685cb137]" name="setup" is-config="true" duration-ms="17587" started-at="2017-09-11T08:37:10Z" finished-at="2017-09-11T08:37:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Actionclass()[pri:0, instance:com.TestScript.HomeTest@685cb137]" name="Actionclass" duration-ms="6632" started-at="2017-09-11T08:37:28Z" finished-at="2017-09-11T08:37:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Actionclass -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.TestScript.HomeTest@685cb137]" name="teardown" is-config="true" duration-ms="967" started-at="2017-09-11T08:37:34Z" finished-at="2017-09-11T08:37:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestScript.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
